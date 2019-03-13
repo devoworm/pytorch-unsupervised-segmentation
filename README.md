@@ -4,7 +4,7 @@ This pytorch code generates segmentation labels of an input image.
 I have modified the original code to test it with my images. Here is the result:
 
 
-![Unsupervised Segmentation]()
+![Unsupervised Segmentation](https://github.com/nvinayvarma189/pytorch-unsupervised-segmentation/blob/master/images/output.png)
 
 
 
